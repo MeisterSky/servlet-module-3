@@ -1,8 +1,5 @@
 package sheff.module3.game.rpgquest.servlet;
 
-import dev.neigborstan.game.rpgquest.entity.*;
-import dev.neigborstan.game.rpgquest.init.*;
-import dev.neigborstan.game.rpgquest.repository.*;
 import sheff.module3.game.rpgquest.entity.*;
 import sheff.module3.game.rpgquest.init.*;
 import sheff.module3.game.rpgquest.repository.*;
